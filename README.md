@@ -31,10 +31,7 @@ O objetivo é criar uma página limpa, adaptável a diferentes dispositivos e f�
 ---
 
 ## 📞 Contato
-- **Email:** jose@email.com  
-- **LinkedIn:** [linkedin.com/in/jose](linkedin.com/in/jose-celso-lucas-50b063207)  
+- **Email:** josecelsodelucas2@gmail.com  
 - **GitHub:** [github.com/josecelsodelucas2-hub](https://github.com/josecelsodelucas2-hub)  
-
----
 
 ✨ Esse projeto faz parte do meu portfólio como desenvolvedor web & mobile.
