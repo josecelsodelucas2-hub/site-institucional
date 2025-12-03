@@ -36,8 +36,6 @@
 ## 📞 Contato
 📧 Email: josecelsodelucas2@gmail.com   
 🐙 GitHub: [github.com/josecelsodelucas2-hub](https://github.com/josecelsodelucas2-hub)  
-
-
 <p align="center">
   ✨ Desenvolvido com dedicação para compor meu portfólio como <strong>Desenvolvedor Web & Mobile</strong>.
 </p>
