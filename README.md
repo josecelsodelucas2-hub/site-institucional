@@ -1,37 +1,44 @@
 # 🌐 Site Institucional Responsivo
 
-Este é um projeto de **site institucional moderno e responsivo**, desenvolvido para demonstrar minhas habilidades em **HTML5 e CSS3**.  
-O objetivo é criar uma página limpa, adaptável a diferentes dispositivos e fácil de navegar.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+<p align="center">
+  🚀 Projeto de site institucional moderno e responsivo, criado para demonstrar minhas habilidades em desenvolvimento web.
+</p>
 
 ---
 
-## 🚀 Funcionalidades
-- Layout responsivo (desktop, tablet e mobile)
-- Navegação simples e intuitiva
-- Seções: Início, Sobre, Serviços e Contato
-- Formulário de contato estilizado
-- Design moderno com cores profissionais
+## ✨ Funcionalidades
+✅ Layout responsivo (desktop, tablet e mobile)  
+✅ Navegação simples e intuitiva  
+✅ Seções: Início, Sobre, Serviços e Contato  
+✅ Formulário de contato estilizado  
+✅ Design moderno com cores profissionais  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5** → Estrutura semântica
 - **CSS3** → Estilização e responsividade
-- **JavaScript** → Interatividade básica (menu mobile, validação de formulário)
-
+- **JavaScript** → Interatividade básica
+- 
 ---
 
-## 📂 Estrutura de Arquivos
-
----
-
-## 📸 Demonstração
-👉 [Acesse o site publicado aqui](https://josecelsodelucas2-hub.github.io/site-institucional/)
+## 🌍 Demonstração Online
+👉 [Clique aqui para acessar o site](https://josecelsodelucas2-hub.github.io/site-institucional/)
 
 ---
 
 ## 📞 Contato
-- **Email:** josecelsodelucas2@gmail.com  
-- **GitHub:** [github.com/josecelsodelucas2-hub](https://github.com/josecelsodelucas2-hub)  
+📧 Email: josecelsodelucas2@gmail.com   
+🐙 GitHub: [github.com/josecelsodelucas2-hub](https://github.com/josecelsodelucas2-hub)  
 
-✨ Esse projeto faz parte do meu portfólio como desenvolvedor web & mobile.
+
+<p align="center">
+  ✨ Desenvolvido com dedicação para compor meu portfólio como <strong>Desenvolvedor Web & Mobile</strong>.
+</p>
+
